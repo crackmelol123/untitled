@@ -1,0 +1,1 @@
+worker: java -jar target/untitled-1.0-SNAPSHOT.jar
