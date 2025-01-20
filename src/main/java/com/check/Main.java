@@ -274,7 +274,7 @@ public class Main extends TelegramLongPollingBot {
 
             content.setColorFill(new Color(112, 112, 112));  // Устанавливаем цвет для текста даты
 
-            content.setTextMatrix(100 - 81.1f + 47.5f, 616f);
+            content.setTextMatrix(100 - 81.1f + 47.5f, 616f); // жопалывлаыофвлаываыва
             content.showText(userData.getDate());
 
             // Для Кода авторизации, только если выбран "Телефон"
